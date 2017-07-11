@@ -106,7 +106,7 @@
 					                    <option>Al Punzalan</option>
 					                </select>
 					            </div>
-					            <fieldset class="col-lg-12">
+					            <fieldset>
 					                <button type="submit" class="btn btn-primary col-lg-12">Request for Plot</button>
 					            </fieldset>
 					        </form>
@@ -189,7 +189,7 @@
 						</tbody>
 					</table>	
 
-					<fieldset class="col-lg-12">
+					<fieldset>
 		                <button type="submit" class="btn btn-primary pull-right">Apply for Leave</button>
 		            </fieldset>
 
